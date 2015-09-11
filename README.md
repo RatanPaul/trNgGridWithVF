@@ -18,5 +18,5 @@ Features
 Attributes
 strQuery = pass query.
 size = enter integer value for display rows.
-
+[Installation Package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t900000002Zkp)
 [Demo image](https://drive.google.com/file/d/0B5PMI0wQcOqlbmdJb19wWThzRm8/view?usp=sharing)
