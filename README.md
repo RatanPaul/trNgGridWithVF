@@ -2,6 +2,8 @@
 trNgGrid with visualforce page.
 
 
+[Installation Package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t900000002Zkp)
+
 This is a visualforce component. This is angular trnggrid table.
 
 Features
@@ -19,6 +21,5 @@ Attributes
 strQuery = pass query.
 size = enter integer value for display rows.
 
-[Installation Package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t900000002Zkp)
+![trNgGrid](https://raw.githubusercontent.com/RatanPaul/imges/master/img/trNGGridWithVF.png)
 
-[Demo image](https://drive.google.com/file/d/0B5PMI0wQcOqlbmdJb19wWThzRm8/view?usp=sharing)
